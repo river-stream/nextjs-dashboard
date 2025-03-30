@@ -5,3 +5,10 @@
 5. 什么是客户端组件
 6. tailwind 色系
 7. layout布局的好处 partial rendering
+8. nextjs中的流式传输时怎么做到的？？？先渲染部分，后续补充渲染
+
+nextjs官网教程中提到的流式传输
+1. 页面级别的Suspense (loading)
+2. 组件级别的Suspense (loading)
+
+app router chapter 11
